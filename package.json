@@ -1,0 +1,19 @@
+{
+  "name": "track",
+  "version": "0.1.0",
+  "description": "Resource tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stoph/track.git"
+  },
+  "author": "Christoph Khouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoph/track/issues"
+  },
+  "homepage": "https://github.com/stoph/track"
+}
